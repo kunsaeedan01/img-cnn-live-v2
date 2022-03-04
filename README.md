@@ -8,3 +8,4 @@ pip install -r requirements
 ## Usage 
 Application allows to upload image and get it's classification by CNN
 ## Example
+<img src='img_cnn.png'>
